@@ -1,28 +1,11 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/payment/payment"
+    "pages/index/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Todo list",
     "navigationBarTextStyle":"black"
-  },
-   "tabBar": {
-    "color": "#999",
-    "selectedColor": "#d55a4a",
-    "borderStyle": "white",
-    "backgroundColor": "#ffffff",
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "todo"
-      },
-      {
-        "pagePath": "pages/payment/payment",
-        "text": "payment"
-      }
-    ]
-   }
+  }
 }
